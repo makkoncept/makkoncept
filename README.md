@@ -1,5 +1,4 @@
 <h1 align="center">Hi!, Welcome to my Github :)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makkoncept" alt="makkoncept" /> </p>
 
 I am Mayank, a final year Computer Science Engineering student (class of 2021). I have a deep interest in Problem-Solving, Web, and Open Source.
 
